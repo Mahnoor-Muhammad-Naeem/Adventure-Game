@@ -26,7 +26,7 @@ Follow these steps to run the Python code:
 ### Clone the Repository
 Open a terminal or command prompt and run the following command to clone the project:
 ```bash
-git clone https://github.com/Mahnoor-Muhammad-Naeem/your-repo-name.git
+git clone https://github.com/Mahnoor-Muhammad-Naeem/Adventure-Quest-Game.git
 ```
 Navigate to the Project Directory
 After cloning, go to the project directory:
