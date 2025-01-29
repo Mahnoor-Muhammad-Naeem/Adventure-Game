@@ -4,31 +4,36 @@ Adventure Quest Game is a beginner-friendly, text-based adventure game written i
 
 ### How It Works
 The player is greeted and asked if they want to play.
+
 If they agree to play, the player must choose between two directions: left or right.
-Depending on the player's choices:
+
+### Depending on the player's choices:
 They can face challenges like swimming under a bridge or crossing it.
+
 The story ends with either victory or an unfortunate fate.
 ### Features
 Interactive user input.
+
 Simple decision-making mechanics.
+
 Multiple possible outcomes based on player choices.
 
 
-# Working:
-How to Run the Project
+### Working:
+#### How to Run the Project
 Follow these steps to run the Python code:
 
-Clone the Repository
+### Clone the Repository
 Open a terminal or command prompt and run the following command to clone the project:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Mahnoor-Muhammad-Naeem/your-repo-name.git
 ```
 Navigate to the Project Directory
 After cloning, go to the project directory:
 ```bash
-cd your-repo-name
+cd Adventure-Quest-Game
 ```
 Run the Python Code
 ```bash
-python your_script_name.py
+python Adventure-Quest-Game.py
 ```
