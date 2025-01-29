@@ -35,5 +35,5 @@ cd Adventure-Quest-Game
 ```
 Run the Python Code
 ```bash
-python Adventure-Quest-Game.py
+python game.py
 ```
